@@ -7,3 +7,10 @@
 /dist
 .DS_Store
 /tags
+=======
+tmp/*
+config/database.php
+app/tmp/*
+app/config/database.php
+!empty
+
